@@ -116,7 +116,7 @@ export const certifications = [
 /** Replace with your real profiles before deploying */
 export const socials = {
   linkedin: 'https://www.linkedin.com/in/abdul-rahman-75366b343/',
-  github: 'https://github.com/rahmann292006-netizen/AI-Engineer-Journey.git',
+  github: 'https://github.com/rahmann292006-netizen',
   twitter: 'https://x.com/rahman_aibuilds',
   email: 'mailto:rahmann292006@gmail.com',
 }
