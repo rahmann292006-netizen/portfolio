@@ -62,6 +62,16 @@ export default function Certifications() {
                       {cert.issuer} · {cert.year}
                     </p>
                     <p className="text-sm text-zinc-400 leading-relaxed">{cert.description}</p>
+                    {cert.certificate && (
+  <a
+    href={cert.certificate}
+    target="_blank"
+    rel="noopener noreferrer"
+    className="inline-flex mt-4 text-sm text-blue-400 hover:text-blue-300 transition-colors"
+  >
+    View Certificate →
+  </a>
+)}
                   </div>
                 </div>
               </motion.article>

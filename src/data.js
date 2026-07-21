@@ -84,35 +84,103 @@ export const projects = [
 
 export const certifications = [
   {
-    title: 'Machine Learning',
-    issuer: 'Certification Placeholder',
-    year: '2024–2025',
-    status: 'In Progress',
-    description: 'Supervised learning, model evaluation, and real-world ML workflows.',
+    title: "Data Science - Certificate of Achievement",
+    issuer: "Rinex",
+    year: "2025",
+    status: "Completed",
+    description:
+      "Awarded on successful completion of the Data Science course.",
+    certificate:
+      "/certificates/Abdul_Rahman_Google_course_completion_Certificate.pdf",
   },
-  {
-    title: 'Data Science',
-    issuer: 'Certification Placeholder',
-    year: '2024–2025',
-    status: 'In Progress',
-    description: 'Data analysis, visualization, statistics, and end-to-end pipelines.',
-  },
-  {
-    title: 'Python Programming',
-    issuer: 'Certification Placeholder',
-    year: '2024',
-    status: 'Completed',
-    description: 'Python fundamentals for data science and AI applications.',
-  },
-  {
-    title: 'AI & Generative AI',
-    issuer: 'Certification Placeholder',
-    year: '2025+',
-    status: 'Upcoming',
-    description: 'Deep learning, generative AI, and AI engineering credentials.',
-  },
-]
 
+  {
+    title: "Machine Learning - Certificate of Achievement",
+    issuer: "Rinex",
+    year: "2025",
+    status: "Completed",
+    description:
+      "Awarded on successful completion of the Machine Learning course.",
+    certificate:
+      "/certificates/Abdul_Rahman_Google_Certificate_3_.pdf",
+  },
+
+  {
+    title: "Letter of Recommendation",
+    issuer: "Placemantra",
+    year: "2025",
+    status: "Completed",
+    description:
+      "Recommendation letter for successfully completing Machine Learning internship.",
+    certificate:
+      "/certificates/LETTER_OF_RECOMMENDATION__Abdul_Rahman.pdf",
+  },
+
+  {
+    title: "Data Science Internship",
+    issuer: "Rinex (Entrepreneurship Cell, IIT Bhubaneswar)",
+    year: "2025",
+    status: "Completed",
+    description:
+      "Completed Data Science internship program.",
+    certificate:
+      "/certificates/Internship_Certificate_-_Abdul_Rahman__1_.pdf",
+  },
+
+  {
+    title: "Machine Learning Internship",
+    issuer: "Placemantra",
+    year: "2025",
+    status: "Completed",
+    description:
+      "Completed Machine Learning internship program.",
+    certificate:
+      "/certificates/INTERNSHIP_CERTIFICATE__Abdul_Rahman.pdf",
+  },
+
+  {
+    title: "Industrial Training",
+    issuer: "Placemantra",
+    year: "2025",
+    status: "Completed",
+    description:
+      "Certificate of Industrial Training at Placemantra.",
+    certificate:
+      "/certificates/INDUSTRIAL_TRAINING_CERTIFICATE__Abdul_Rahman.pdf",
+  },
+  {
+  title: "Machine Learning Course",
+  issuer: "Rinex",
+  year: "2025",
+  status: "Completed",
+  description:
+    "Certificate of Course Completion for the Machine Learning Course (5 Jul – 31 Aug, 2025). Certificate ID: ML25-RNC0-7069.",
+  certificate:
+    "/certificates/Course_completion_certificate__1_.pdf",
+},
+
+{
+  title: "Data Science Course",
+  issuer: "Rinex",
+  year: "2025",
+  status: "Completed",
+  description:
+    "Certificate of Course Completion for the Data Science Course (5 Jul – 31 Aug, 2025). Certificate ID: DS25-RNC0-7266.",
+  certificate:
+    "/certificates/Course_completion_certificate.pdf",
+},
+
+{
+  title: "Machine Learning Internship",
+  issuer: "Placemantra",
+  year: "2025",
+  status: "Completed",
+  description:
+    "Certificate of Internship in Machine Learning at Placemantra (Jul 1 – Sep 1, 2025). Reference: 072025CML1739.",
+  certificate:
+    "/certificates/INTERNSHIP_CERTIFICATE__Abdul_Rahman.pdf",
+},
+];
 /** Replace with your real profiles before deploying */
 export const socials = {
   linkedin: 'https://www.linkedin.com/in/abdul-rahman-75366b343/',
