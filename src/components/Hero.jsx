@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import { motion } from 'framer-motion'
 import { ArrowDown, Download, Mail, FolderGit2, User } from 'lucide-react'
-
+import mee from "../assets/mee.png";
 const TYPING_TEXT = 'Building AI Solutions That Solve Real Problems.'
 
 export default function Hero() {
@@ -134,7 +134,7 @@ export default function Hero() {
               <div className="relative w-64 h-64 sm:w-72 sm:h-72 md:w-80 md:h-80 rounded-[2rem] glass-strong gradient-border overflow-hidden flex flex-col items-center justify-center">
                 <div className="absolute inset-0 bg-gradient-to-br from-blue-500/10 to-purple-500/10" />
                <img
-  src='https://pbs.twimg.com/profile_images/2075519716479901696/893iYGcw_400x400.jpg'
+  src={mee}
   alt="Abdul Rahman"
   className="relative z-10 w-full h-full object-cover rounded-[2rem]"
 />

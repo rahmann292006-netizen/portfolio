@@ -32,7 +32,7 @@ export default function Navbar() {
       <nav className="max-w-6xl mx-auto px-5 flex items-center justify-between">
         <a href="#hero" className="flex items-center gap-2.5 group" aria-label="Home">
           <div className="w-9 h-9 rounded-xl bg-gradient-to-br from-blue-500 to-purple-500 flex items-center justify-center text-sm font-bold text-white shadow-lg shadow-blue-500/20 group-hover:shadow-blue-500/40 transition-shadow">
-            AR
+            λ
           </div>
           <span className="font-semibold text-white hidden sm:block tracking-tight">
             Abdul Rahman
