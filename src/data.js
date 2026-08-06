@@ -26,14 +26,15 @@ export const journey = [
   { title: 'Python', status: 'completed', description: 'Core language fundamentals & scripting' },
   { title: 'NumPy', status: 'completed', description: 'Numerical computing foundations' },
   { title: 'Pandas', status: 'completed', description: 'Data manipulation & analysis' },
-  { title: 'Matplotlib', status: 'current', description: 'Data visualization basics' },
-  { title: 'Seaborn', status: 'upcoming', description: 'Statistical visualizations' },
+  { title: 'Matplotlib', status: 'completed', description: 'Data visualization basics' },
+  { title: 'Seaborn', status: 'current', description: 'Statistical visualizations' },
   { title: 'Machine Learning', status: 'upcoming', description: 'Supervised & unsupervised learning' },
   { title: 'Deep Learning', status: 'upcoming', description: 'Neural networks & architectures' },
   { title: 'NLP', status: 'upcoming', description: 'Text processing & language models' },
   { title: 'LLMs', status: 'upcoming', description: 'Large language models & prompting' },
   { title: 'AI Engineering', status: 'upcoming', description: 'Production AI systems & products' },
 ]
+
 
 export const projects = [
   {
